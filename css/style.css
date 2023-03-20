@@ -79,4 +79,9 @@ p {
 .green {
     background-color: green;
 }
-
+.red {
+    background-color: red;
+}
+.disabled {
+    pointer-events: none;
+}
